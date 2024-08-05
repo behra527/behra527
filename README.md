@@ -76,12 +76,8 @@ I began my coding journey with HTML and have since evolved into a full-stack dev
 
 ### Badges
 
-**My GitHub Stats**
+<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/behra527">
-  <img src="https://github-readme-stats.vercel.app/api?username=behra527&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical" alt="behra527's GitHub stats" />
-</a>
+<a href="http://www.github.com/behra527"><img src="https://github-readme-stats.vercel.app/api?username=behra527&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="behra527's GitHub stats" /></a>
 
-<a href="http://www.github.com/behra527">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=behra527&theme=radical" alt="GitHub Streak Stats" />
-</a>
+<a href="http://www.github.com/behra527"><img src="https://github-readme-streak-stats.herokuapp.com/?user=behra527&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
